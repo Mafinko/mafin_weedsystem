@@ -1,0 +1,17 @@
+[
+  {
+    "name": "cannabis",
+    "label": "Cannabis",
+    "weight": 3,
+    "rare": false,
+    "canRemove": true
+  },
+  {
+    "name": "marijuana",
+    "label": "Marijuana",
+    "weight": 2,
+    "rare": false,
+    "canRemove": true
+  }
+]
+
